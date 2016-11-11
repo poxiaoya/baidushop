@@ -501,7 +501,7 @@ a{text-decoration: none}
 		.main_right a:nth-child(2){
 			width: 478px;
 			height: 540px;
-			border-lefat: 1px solid #eee;
+			border-left: 1px solid #eee;
 			border-right: 1px solid #eee;
 			float: left;
 		}
